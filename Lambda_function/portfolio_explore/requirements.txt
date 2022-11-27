@@ -1,0 +1,5 @@
+numpy
+pandas
+PyPortfolioOpt
+boto3
+awswrangler
