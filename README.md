@@ -1,7 +1,7 @@
 # Stock Portfolio Management System:
 * Automatically update daily price data of nasdaq stocks to data lake (S3)
-* Invoke Lambda Function to return porfolio allocation based on subcriber's optimization method  
-* Automatically distribute risk analysis report of portfolios to subcribers with SNS
+* Invoke Lambda Function to return porfolio allocation based on subscriber's optimization method  
+* Automatically distribute risk analysis report of portfolios to subscribers with SNS
 
 ![Stock portfolio system](ProjectFlow.svg)
 
